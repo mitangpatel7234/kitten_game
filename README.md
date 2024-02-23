@@ -1,3 +1,4 @@
+# Mitang Patel
 # 😸 Exploding Kitten, a web-based game. 
 
 This will be an online single-player card game that consists of 4 different types of cards
