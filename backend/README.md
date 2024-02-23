@@ -1,4 +1,4 @@
-# game-api
+# Backend server start
 
 commands:
 npm install - To install the packages and get started
